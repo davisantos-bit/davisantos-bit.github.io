@@ -9,7 +9,6 @@ end_date: 2019-12-31
 location: "Fortaleza, Brasil"
 ---
 
-### Cursos Ministrados
 - Administração
 - Egenharia de Produção
 
