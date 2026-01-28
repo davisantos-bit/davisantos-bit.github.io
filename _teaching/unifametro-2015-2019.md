@@ -1,9 +1,9 @@
 ---
-title: "Teaching Experience – Unifametro"
+title: "Centro Universitário Unifametro"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/unifametro-2015-2019
-venue: "Centro Universitário Unifametro"
+venue: "Unifametro"
 start_date: 2015-01-01
 end_date: 2019-12-31
 date_display: "2015-2019"
