@@ -13,7 +13,6 @@ location: "Fortaleza, Brasil"
 ### Cursos Ministrados:
 - Administração
 - Engenharia de Produção
-======
 
 ### Disciplinas Ministradas:
 - Cálculo Diferencial e Integral I/II
@@ -24,4 +23,3 @@ location: "Fortaleza, Brasil"
 - Engenharia Econômica
 - Fundamentos de Economia
 - Análise Macroeconômica
-======
