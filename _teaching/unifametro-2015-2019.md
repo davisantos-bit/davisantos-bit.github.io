@@ -2,7 +2,7 @@
 title: "Teaching Experience – Unifametro"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/unifametro-2015-2018
+permalink: /teaching/unifametro-2015-2019
 venue: "Centro Universitário Unifametro, Engenharia de Produção e Admnistração"
 date: 2015-01-01
 end_date: 2019-12-31
