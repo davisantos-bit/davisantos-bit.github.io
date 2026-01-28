@@ -1,9 +1,3 @@
-index.md
----
-layout: home
-author_profile: true
----
-
 Bem-vindo(a)!
 
 Sou **Professor Substituto de Economia** na **Faculdade de Economia, Administração, Atuária e Contabilidade (FEAAC)** da **Universidade Federal do Ceará (UFC)**.
