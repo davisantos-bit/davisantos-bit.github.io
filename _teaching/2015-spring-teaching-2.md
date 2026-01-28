@@ -4,7 +4,9 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University 1, Department"
-date: 2015-01-01
+start_date: 2015-01-01
+end_date: 2025-12-31
+date_display: "2015-2025"
 location: "City, Country"
 ---
 
