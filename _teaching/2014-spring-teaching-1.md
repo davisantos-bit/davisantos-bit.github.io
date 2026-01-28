@@ -2,9 +2,9 @@
 title: "Teaching Experience – FACPED"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2015-2018-faculdade-padre-dourado
+permalink: /teaching/2014-spring-teaching-1
 venue: "Faculdade Padre Dourado-FACPED, Admnistração e Contabilidade"
-date: 2015-01-01
+date: 2014-01-01
 location: "Fortaleza, Brasil"
 ---
 
