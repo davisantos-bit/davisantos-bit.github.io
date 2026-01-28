@@ -4,11 +4,13 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/unifametro-2015-2019
 venue: "Centro Universitário Unifametro, Engenharia de Produção e Admnistração"
-date: 2015-01-01
-end_date: 2019-12-31
+start_date: 2015-01-01
+end_date: 2018-12-31
+date_display: "2015–2019"
 location: "Fortaleza, Brasil"
 ---
 
+### Cursos Ministrados
 - Administração
 - Egenharia de Produção
 
