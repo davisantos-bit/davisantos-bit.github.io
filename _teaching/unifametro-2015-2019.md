@@ -12,7 +12,7 @@ location: "Fortaleza, Brasil"
 
 ### Cursos Ministrados:
 - Administração
-- Egenharia de Produção
+- Engenharia de Produção
 
 ### Disciplinas Ministradas:
 - Cálculo Diferencial e Integral I/II
