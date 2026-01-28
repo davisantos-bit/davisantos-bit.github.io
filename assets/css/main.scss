@@ -39,3 +39,20 @@
   max-width: 130px;
   border-radius: 50%;
 }
+/* Ajuste fino da sidebar do autor */
+.author__avatar {
+  margin-bottom: 0.5em;
+}
+
+.author__avatar img {
+  max-width: 120px;
+  border-radius: 50%;
+}
+
+.author__content {
+  padding-top: 0;
+}
+
+.author__name {
+  margin-top: 0.3em;
+}
