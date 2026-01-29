@@ -8,7 +8,13 @@ pubtype: journal
 venue: "Revista Derecho y Cambio Social (DCS)"
 status: "Published"
 
-authors: "Marcelo Davi Santos"
+authors:
+  - name: Marcelo Davi Santos
+    me: true
+  - name: Abias Gomes Mota
+  - name: Marcus Vinicius Adriano Araujo
+  - name: Marcel Pereira Pordeus
+  - name: José Maria da Cunha Junior
 
 paperurl: "https://ojs.revistadcs.com/index.php/revista/article/view/3060/2406"
 doi: "10.54899/dcs.v22i81.3060"
