@@ -1,0 +1,37 @@
+/* Research list style (estilo TomasRM) */
+.archive__item-title {
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.archive__item p {
+  font-size: 0.85rem;
+  line-height: 1.4;
+  margin: 0.2rem 0;
+}
+
+.pub-links {
+  font-size: 0.8rem;
+  margin-top: 0.2rem;
+}
+
+.pub-links a {
+  color: #1a1a1a;
+  text-decoration: none;
+}
+
+.pub-links a:hover {
+  text-decoration: underline;
+}
+
+/* Abstract escondido por padrão */
+.pub-abstract {
+  display: none;
+  font-size: 0.8rem;
+  margin-top: 0.3rem;
+  color: #333;
+}
+
+.pub-abstract.show {
+  display: block;
+}
