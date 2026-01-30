@@ -22,7 +22,14 @@ authors:
 paperurl: "https://mail.revistageo.com.br/revista/article/view/658/476"
 doi: "https://doi.org/10.56238/revgeov16n4-026"
 
-abstract: >
+citation: >
+  Milhome, N. C., Santos, M. D., Lobo, P. G., Araujo, M. V. A., Pordeus, M. P., Cardoso, R. de O., & Oliveira, C. M. da S. (2025). A
+  PROGRAMAÇÃO PACTUADA E INTEGRADA (PPI) COMO INSTRUMENTO DE GARANTIA DA INTEGRALIDADE DA ATENÇÃO À SAÚDE NO SUS: UM ESTUDO DE CASO NO  
+  APRIMORAMENTO DA ASSISTÊNCIA ONCOLÓGICA NA REGIÃO DE SAÚDE DE FORTALEZA, CEARÁ. 
+  Revista De Geopolítica, 16(4), e658.
+  https://doi.org/10.56238/revgeov16n4-026
+
+  abstract: >
   Cancer is one of the leading causes of morbidity and mortality worldwide. The complexity of treatment and the need for specialized
   resources pose significant challenges for public health. In this perspective, this study addresses the Integrated Agreed Programming
   (PPI), an essential process in the Unified Health System (SUS) that aims to organize and quantify health actions for the population,
@@ -36,11 +43,4 @@ abstract: >
   resources are properly directed and used. In this sense, this study reinforces the need for situational strategic planning to address
   challenges in public health management, contributing to the continuous improvement of the services offered and the enhancementof
   cancer care.
-
-citation: >
-  Milhome, N. C., Santos, M. D., Lobo, P. G., Araujo, M. V. A., Pordeus, M. P., Cardoso, R. de O., & Oliveira, C. M. da S. (2025). A
-  PROGRAMAÇÃO PACTUADA E INTEGRADA (PPI) COMO INSTRUMENTO DE GARANTIA DA INTEGRALIDADE DA ATENÇÃO À SAÚDE NO SUS: UM ESTUDO DE CASO NO  
-  APRIMORAMENTO DA ASSISTÊNCIA ONCOLÓGICA NA REGIÃO DE SAÚDE DE FORTALEZA, CEARÁ. 
-  Revista De Geopolítica, 16(4), e658.
-  https://doi.org/10.56238/revgeov16n4-026
 ---
