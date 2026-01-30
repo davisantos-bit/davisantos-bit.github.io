@@ -19,7 +19,13 @@ authors:
 paperurl: "https://ojs.revistadcs.com/index.php/revista/article/view/3060"
 doi: "10.54899/dcs.v22i81.3060"
 
-abstract: |
+citation: >
+  Mota, A. G., Araujo, M. V. A., Santos, M. D., Pordeus, M. P., & Cunha Junior, J. M. da. (2025). ANÁLISE GEOESPACIAL DA VIOLÊNCIA  
+  URBANA: FATORES DE RISCO E PADRÕES ESPACIAIS NOS BAIRROS DE FORTALEZA, CEARÁ. 
+  Revista DCS, 22(81), e3060.
+  https://doi.org/10.54899/dcs.v22i81.3060
+
+abstract: >
   This study analyzes the spatial distribution of homicides and their socioeconomic determinants in 113 neighborhoods in Fortaleza (CE)
   between 2010 and 2021. Using spatial analysis techniques and econometric models such as SAR and SEM, it identifies significant spatial
   dependence in homicide rates, with evidence of agglomeration in socially vulnerable areas. The work shows that variables such as the
@@ -29,10 +35,4 @@ abstract: |
   space and structural inequalities shape local patterns of violence. Furthermore, the empirical data from this study consistently
   demonstrates that the distribution of homicides in Fortaleza does not occur randomly, but according to well-defined spatial patterns,
   revealing clusters of high violence concentrated in areas with low socioeconomic conditions.
-
-citation: |
-  Mota, A. G., Araujo, M. V. A., Santos, M. D., Pordeus, M. P., & Cunha Junior, J. M. da. (2025). ANÁLISE GEOESPACIAL DA VIOLÊNCIA  
-  URBANA: FATORES DE RISCO E PADRÕES ESPACIAIS NOS BAIRROS DE FORTALEZA, CEARÁ. 
-  Revista DCS, 22(81), e3060.
-  https://doi.org/10.54899/dcs.v22i81.3060
 ---
