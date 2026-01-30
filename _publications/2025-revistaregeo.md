@@ -19,7 +19,7 @@ authors:
   - name: Rebeca de Oliveira Cardoso
   - name: Camila Marques da Silva Oliveira
 
-paperurl: "https://mail.revistageo.com.br/revista/article/view/658/476"
+paperurl: "https://revistageo.com.br/revista/article/view/658"
 doi: "https://doi.org/10.56238/revgeov16n4-026"
 
 citation: >
