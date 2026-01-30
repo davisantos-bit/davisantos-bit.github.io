@@ -16,7 +16,7 @@ authors:
   - name: Marcel Pereira Pordeus
   - name: José Maria da Cunha Junior
 
-paperurl: "https://ojs.revistadcs.com/index.php/revista/article/view/3060/2406"
+paperurl: "https://ojs.revistadcs.com/index.php/revista/article/view/3060"
 doi: "10.54899/dcs.v22i81.3060"
 
 abstract: |
