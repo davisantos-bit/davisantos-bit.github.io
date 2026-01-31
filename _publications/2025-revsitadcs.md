@@ -18,6 +18,7 @@ authors:
 
 paperurl: "https://ojs.revistadcs.com/index.php/revista/article/view/3060"
 doi: "10.54899/dcs.v22i81.3060"
+bibtexurl: /assets/bibtex/2025-revistadcs.bib
 
 citation: >
   Mota, A. G., Araujo, M. V. A., Santos, M. D., Pordeus, M. P., & Cunha Junior, J. M. da. (2025). ANÁLISE GEOESPACIAL DA VIOLÊNCIA  
