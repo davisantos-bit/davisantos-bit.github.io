@@ -19,9 +19,9 @@ authors:
   - name: Rebeca de Oliveira Cardoso
   - name: Camila Marques da Silva Oliveira
 
-paperurl: "https://revistageo.com.br/revista/article/view/658"
+paper: "https://revistageo.com.br/revista/article/view/658"
 doi: "10.56238/revgeov16n4-026"
-bibtexurl: /assets/bibtex/2025-revistaregeo.bib
+bibtex: /assets/bibtex/2025-revistaregeo.bib
 
 citation: >
   Milhome, N. C., Santos, M. D., Lobo, P. G., Araujo, M. V. A., Pordeus, M. P., Cardoso, R. de O., & Oliveira, C. M. da S. (2025). A
