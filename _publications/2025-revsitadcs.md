@@ -36,4 +36,16 @@ abstract: >
   space and structural inequalities shape local patterns of violence. Furthermore, the empirical data from this study consistently
   demonstrates that the distribution of homicides in Fortaleza does not occur randomly, but according to well-defined spatial patterns,
   revealing clusters of high violence concentrated in areas with low socioeconomic conditions.
+
+  bibtex: |
+  @article{Mota2025ViolenciaUrbana,
+    title   = {Análise Geoespacial da Violência Urbana: Fatores de Risco e Padrões Espaciais nos Bairros de Fortaleza, Ceará},
+    author  = {Mota, Abias Gomes and Araujo, Marcus Vinicius Adriano and Santos, Marcelo Davi and Pordeus, Marcel Pereira and Cunha
+    Junior, José Maria},
+    journal = {Revista Derecho y Cambio Social},
+    volume  = {22},
+    number  = {81},
+    year    = {2025},
+    doi     = {10.54899/dcs.v22i81.3060}
+  }
 ---
