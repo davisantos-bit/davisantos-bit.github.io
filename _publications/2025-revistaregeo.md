@@ -30,7 +30,7 @@ citation: >
   Revista De Geopolítica, 16(4), e658.
   https://doi.org/10.56238/revgeov16n4-026
 
-  abstract: >
+abstract: >
   Cancer is one of the leading causes of morbidity and mortality worldwide. The complexity of treatment and the need for specialized
   resources pose significant challenges for public health. In this perspective, this study addresses the Integrated Agreed Programming
   (PPI), an essential process in the Unified Health System (SUS) that aims to organize and quantify health actions for the population,
