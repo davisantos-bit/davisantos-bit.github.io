@@ -22,7 +22,7 @@ bibtexurl: /assets/bibtex/2025-revistaced.bib
 citation: |
   Vasconcelos, E. dos S., Santos, M. D., & Pordeus, M. P. (2025). Effect of extracurricular factors on reading proficiency performance
   in elementary school.
-  Cuadernos De Educación Y Desarrollo - QUALIS A4, 17(9), e9321.
+  Cuadernos de Educación y Desarrollo, 17(9), e9321.
   https://doi.org/10.55905/cuadv17n9-025
 
 abstract: |
