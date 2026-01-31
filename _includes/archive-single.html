@@ -59,7 +59,11 @@
     </a>
     {% if post.paperurl %} | <a href="{{ post.paperurl }}">Paper</a>{% endif %}
     {% if post.slidesurl %} | <a href="{{ post.slidesurl }}">Slides</a>{% endif %}
-    {% if post.bibtexurl %} | <a href="{{ post.bibtexurl }}">BibTeX</a>{% endif %}
+    {% if post.bibtexurl %}
+    | <a href="#" onclick="document.getElementById('bib-{{ post.id }}').classList.toggle('show'); return false;">
+    BibTeX
+   </a>
+  {% endif %}
   </p>
 
   <div id="abs-{{ post.id }}" class="pub-abstract">
@@ -67,5 +71,14 @@
   </div>
   {% endif %}
 
+  {% if post.bibtexurl %}
+  <div id="bib-{{ post.id }}" class="pub-abstract">
+  <pre>
+  {% include_relative ../assets/bibtex/2025-revistadcs.bib %}
+  </pre>
+  </div>
+  {% endif %}
+
+    
   </article>
 </div>
