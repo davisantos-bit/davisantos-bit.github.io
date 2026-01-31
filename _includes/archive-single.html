@@ -79,6 +79,13 @@
   </div>
   {% endif %}
 
+    {% if post.bibtexurl %}
+  <div id="bib-{{ post.id }}" class="pub-abstract">
+  <pre>
+  {% include_relative ../assets/bibtex/2025-revistaregeo.bib %}
+  </pre>
+  </div>
+  {% endif %}
     
   </article>
 </div>
