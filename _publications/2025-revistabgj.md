@@ -18,7 +18,7 @@ authors:
 
 paperurl: "https://seer.ufu.br/index.php/braziliangeojournal/article/view/75960"
 doi: "10.14393/BGJ-v16n1-a2025-75960"
-bibtexurl: /assets/bibtex/2025-revistarbgj.bib
+bibtexurl: /assets/bibtex/2025-revistabgj.bib
 
 citation: |
   Flávio N. Moreira Júnior, Marcelo D. Santos, Paula A. Tomaz, Wagner V. Amorim, Aryberg S. Duarte,ANÁLISE ESPACIAL DA DINÂMICA DA VIOLÊNCIA E CRIMINALIDADE (V&C):uma abordagem para a área
