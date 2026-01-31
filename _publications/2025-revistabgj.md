@@ -1,5 +1,5 @@
 ---
-title: "Análise Espacial da Dinâmica da Violência e Criminalidade (V&C): Uma abordagem para a área urbana do município de Caucaia-CE"
+title: "Space Analysis of the Dynamics of Violence and Criminality (V&C): An Approach for the Urban Area of Caucaia-CE"
 collection: publications
 permalink: /publication/2025-revistabgj/
 date: 2025-06-30
@@ -21,8 +21,8 @@ doi: "10.14393/BGJ-v16n1-a2025-75960"
 bibtexurl: /assets/bibtex/2025-revistabgj.bib
 
 citation: |
-  Moreira Júnior, F. N., Santos, M. D., Tomaz, P. A., Amorin, W. V. & Duarte, A. S. (2025). ANÁLISE ESPACIAL DA DINÂMICA DA VIOLÊNCIA E
-  CRIMINALIDADE (V&C):uma abordagem para a área urbana do município de Caucaia-CE.
+  Moreira Júnior, F. N., Santos, M. D., Tomaz, P. A., Amorin, W. V. & Duarte, A. S. (2025). Space Analysis of the Dynamics of Violence
+  and Criminality (V&C): An Approach for the Urban Area of Caucaia-CE.
   Revista Brazilian Geographical Journal, 16(1), 73-102.
   https://doi.org/10.14393/BGJ-v16n1-a2025-75960
 
