@@ -20,7 +20,7 @@ authors:
   - name: Camila Marques da Silva Oliveira
 
 paperurl: "https://revistageo.com.br/revista/article/view/658"
-doi: "https://doi.org/10.56238/revgeov16n4-026"
+doi: "10.56238/revgeov16n4-026"
 bibtexurl: /assets/bibtex/2025-revistaregeo.bib
 
 citation: >
