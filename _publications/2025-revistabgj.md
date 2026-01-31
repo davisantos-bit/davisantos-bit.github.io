@@ -1,5 +1,5 @@
 ---
-title: "ANÁLISE ESPACIAL DA DINÂMICA DA VIOLÊNCIA E CRIMINALIDADE (V&C): Uma abordagem para a área urbana do município de Caucaia-CE"
+title: "Análise Espacial da Dinâmica da Violência e Criminalidade (V&C): Uma abordagem para a área urbana do município de Caucaia-CE"
 collection: publications
 permalink: /publication/2025-revistabgj/
 date: 2025-06-30
