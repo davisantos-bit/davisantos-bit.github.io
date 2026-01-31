@@ -21,7 +21,7 @@ authors:
 
 paperurl: "https://revistageo.com.br/revista/article/view/658"
 doi: "10.56238/revgeov16n4-026"
-bibtex: /assets/bibtex/2025-revistaregeo.bib
+bibtexurl: /assets/bibtex/2025-revistaregeo.bib
 
 citation: >
   Milhome, N. C., Santos, M. D., Lobo, P. G., Araujo, M. V. A., Pordeus, M. P., Cardoso, R. de O., & Oliveira, C. M. da S. (2025). A
