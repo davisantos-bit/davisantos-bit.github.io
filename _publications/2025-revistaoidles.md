@@ -25,7 +25,7 @@ doi: "10.51896/oidles.v19i39.957"
 bibtexurl: /assets/bibtex/2025-revistaoidles.bib
 
 citation: |
- Pordeus, M. P., Santos, M. D., Caio Leonam Vieira Pordeus, C. L. V., Josino, J. R., Fonteles, J. C. P., Nogueira, G. I. & Silva, F. A. N. (2025). Social Movements and Popular and Rural Education in the Context of Latin America: Hegemony and People.
+ Pordeus, M. P., Santos, M. D., Pordeus, C. L. V., Josino, J. R., Fonteles, J. C. P., Nogueira, G. I. & Silva, F. A. N. (2025). Social Movements and Popular and Rural Education in the Context of Latin America: Hegemony and People.
  Observatorio Iberoamericano del Desarrollo Local y la Economía Social (OIDLES), 19(39), e957.
  https://doi.org/10.23900/oidles.v19i39.957
 
