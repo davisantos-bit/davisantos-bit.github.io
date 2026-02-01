@@ -22,7 +22,9 @@ doi: "10.24857/rgsa.v19n7-116"
 bibtexurl: /assets/bibtex/2025-revistargsa.bib
 
 citation: |
-  Pordeus, M. P., Pordeus, C. L. V., Santos, V. H. H. dos, Santos, M. D., Nogueira, G. I., & Fonteles, J. C. P. (2025). Climate Change and Human Activity: Global Challenge in Public Policy and the Cause-and-Effect Relationship in Natural Disasters Around the World Between 2020 and 2024.
+  Pordeus, M. P., Pordeus, C. L. V., Santos, V. H. H. dos, Santos, M. D., Nogueira, G. I., & Fonteles, J. C. P. (2025). Climate Change
+  and Human Activity: Global Challenge in Public Policy and the Cause-and-Effect Relationship in Natural Disasters Around the World
+  Between 2020 and 2024.
   Revista De Gestão Social E Ambiental - RGSA, 19(7), e013004.
   https://doi.org/10.24857/rgsa.v19n7-116
 
