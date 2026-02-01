@@ -1,5 +1,4 @@
 ---
-
 title: "Public Health Policies: actions of the Judiciary in controlling and enforcement of the right to Health in Brazil"
 collection: publications
 permalink: /publication/2025-revistajrg/
@@ -38,3 +37,4 @@ abstract: |
   allocated and used for the purchase of medicines, hospitalizations, and hospital procedures for patients in private hospitals, through
   lawsuits. Indeed, this study combines law and public policy in a single research theme, given that these areas are intrinsic to the
   intention of increasing constitutional prerogatives for healthcare users in Brazil.
+  ---
