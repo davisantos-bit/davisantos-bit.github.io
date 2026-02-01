@@ -1,5 +1,5 @@
 ---
-title: "Spatial analysis of crime rate in the urban area of Caucaia, Ceará, Brazil"
+title: "Crime has taken over the city: The belt of insecurity in Fortaleza, Ceará"
 collection: publications
 permalink: /publication/2024-revistarberu/
 date: 2024-08-07
@@ -21,8 +21,8 @@ doi: "10.54766/rberu.v18i1.1069"
 bibtexurl: /assets/bibtex/2024-revistarberu.bib
 
 citation: |
-  Magalhães, M. R. V., da Silva, F. P., Neto, A. M., Santos, M. D., & Penna, C. M. (2024). A criminalidade tomou conta da cidade: O
-  cinturão de insegurança em Fortaleza, Ceará.
+  Magalhães, M. R. V., da Silva, F. P., Neto, A. M., Santos, M. D., & Penna, C. M. (2024). Crime has taken over the city: The belt of
+  insecurity in Fortaleza, Ceará.
   Revista Brasileira de Estudos Regionais e Urbanos, 18(1), 118–149.
   https://doi.org/10.54766/rberu.v18i1.1069
 
