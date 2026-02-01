@@ -21,7 +21,8 @@ doi: "10.54766/rberu.v18i1.1069"
 bibtexurl: /assets/bibtex/2024-revistarberu.bib
 
 citation: |
-	Magalhães, M. R. V., da Silva, F. P., Neto, A. M., Santos, M. D., & Penna, C. M. (2024). A criminalidade tomou conta da cidade: O cinturão de insegurança em Fortaleza, Ceará.
+	Magalhães, M. R. V., da Silva, F. P., Neto, A. M., Santos, M. D., & Penna, C. M. (2024). A criminalidade tomou conta da cidade: O 
+	cinturão de insegurança em Fortaleza, Ceará.
 	Revista Brasileira De Estudos Regionais E Urbanos, 18(1), 118–149.
 	https://doi.org/10.54766/rberu.v18i1.1069
 
