@@ -1,7 +1,7 @@
 ---
 title: "Spatial analysis of crime rate in the urban area of Caucaia, Ceará, Brazil"
 collection: publications
-permalink: /publication/2025-revistarberu/
+permalink: /publication/2024-revistarberu/
 date: 2024-08-07
 
 pubtype: journal
@@ -18,7 +18,7 @@ authors:
 
 paperurl: "https://revistaaber.org.br/rberu/article/view/1069"
 doi: "10.54766/rberu.v18i1.1069"
-bibtexurl: /assets/bibtex/2025-revistarberu.bib
+bibtexurl: /assets/bibtex/2024-revistarberu.bib
 
 citation: |
 	Magalhães, M. R. V., da Silva, F. P., Neto, A. M., Santos, M. D., & Penna, C. M. (2024). A criminalidade tomou conta da cidade: O
