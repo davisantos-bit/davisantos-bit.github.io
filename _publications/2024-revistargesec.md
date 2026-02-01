@@ -33,7 +33,7 @@ bibtexurl: /assets/bibtex/2024-revistargesec.bib
 
 citation: |
   Pordeus, M. P., Pordeus, C. L. V., Santos, M. D., Josino, J. R., Alves, S. R. M., Caetano, W. de S., Sousa, E. L. de, Oliveira, R. N. de, Araújo, R. R., Nunes, K. J. O., Rocha, D. E., Arruda, M. A. M., Moura, L. R., Cidade, A. A. A., Fonteles, J. C. P., & Josino, C. N. (2024). The women's prison system in the State of Ceará: the social scenario of women who have moved away.
-  Revista De Gestão E Secretariado, 15(5), e3835.
+  Revista de Gestão e Secretariado, 15(5), e3835.
   https://doi.org/10.7769/gesec.v15i5.3835
 
 abstract: |
