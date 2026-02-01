@@ -6,7 +6,10 @@ author_profile: true
 ---
 
 ## Journal Articles
-{% assign pubs = site.publications | where: "pubtype", "journal" %}
+{% assign pubs = site.publications 
+   | where: "pubtype", "journal" 
+   | sort: "date" 
+   | reverse %}
 {% for post in pubs %}
   {% include archive-single.html %}
 {% endfor %}
