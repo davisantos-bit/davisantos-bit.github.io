@@ -1,6 +1,6 @@
 ---
 
-title: "Designing the healthcare network: regionalization policy as support for confronting sexual violence against women in Ceará, Northeast, Brazil."
+title: "Social Movements and Popular and Rural Education in the Context of Latin America: Hegemony and People"
 collection: publications
 permalink: /publication/2025-revistaoidles/
 date: 2025-09-12
