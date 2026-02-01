@@ -1,6 +1,6 @@
 ---
 
-title: "Designing the healthcare network: regionalization policy as support for confronting sexual violence against women in Ceará, Northeast, Brazil.
+title: "Designing the healthcare network: regionalization policy as support for confronting sexual violence against women in Ceará, Northeast, Brazil"
 "
 collection: publications
 permalink: /publication/2025-revistaarte/
