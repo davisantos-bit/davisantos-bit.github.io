@@ -25,12 +25,7 @@ citation: |
   issn: 2594-8709
 
 abstract: |
-  The article aims to estimate the expenditures related to Violence and Criminality (V&C) in the State of Ceará for the period 2010
-  2018. The results presented here serve as tools for decision-making and for evaluating the cost–benefit of different local public
-  policies in the field of public security over the last nine years. Thus, this study is intended not only for economists, sociologists,
-  administrators, or statisticians, but also for all interested readers who wish to have an initial contact with the analysis of the
-  social and economic costs of V&C in the State of Ceará, especially those involved in the formulation and management of public security
-  policies. Within the scope of this work, crime-related expenditures can be summarized according to the methodology adopted by SAE/PR
+  The article aims to estimate the expenditures related to Violence and Criminality (V&C) in the State of Ceará for the period 2010-2018. The results presented here serve as tools for decision-making and for evaluating the cost–benefit of different local public policies in the field of public security over the last nine years. Thus, this study is intended not only for economists, sociologists, administrators, or statisticians, but also for all interested readers who wish to have an initial contact with the analysis of the social and economic costs of V&C in the State of Ceará, especially those involved in the formulation and management of public security policies. Within the scope of this work, crime-related expenditures can be summarized according to the methodology adopted by SAE/PR
   (2018): (1) Public Sector Expenditures, which include (1.1) expenditures on the public security function; (1.2) expenditures on the
   prison system; and (1.3) expenditures on the health system (the latter subdivided into hospitalization costs and productivity losses);
   and (2) Private Sector Expenditures, which include (2.1) expenditures related to the loss of human capital due to premature deaths
