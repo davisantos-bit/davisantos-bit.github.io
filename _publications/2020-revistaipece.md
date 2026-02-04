@@ -25,7 +25,7 @@ citation: |
   issn: 2594-8709
 
 abstract: |
-   The article aims to estimate the expenditures related to Violence and Criminality (V&C) in the State of Ceará for the period 2010
+  The article aims to estimate the expenditures related to Violence and Criminality (V&C) in the State of Ceará for the period 2010
   2018. The results presented here serve as tools for decision-making and for evaluating the cost–benefit of different local public
   policies in the field of public security over the last nine years. Thus, this study is intended not only for economists, sociologists,
   administrators, or statisticians, but also for all interested readers who wish to have an initial contact with the analysis of the
