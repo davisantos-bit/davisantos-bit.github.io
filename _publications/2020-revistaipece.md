@@ -2,7 +2,7 @@
 title: "Socioeconomic Costs of Violence and Crime (V&C) in the State of Ceará: Evidence for the Period 2010–2018"
 collection: publications
 permalink: /publication/2020-revistaipece/
-date: 2020-05-15
+date: 2020-05-11
 
 pubtype: journal
 venue: "Boletim de Gestão Pública, Instituto de Pesquisa e Estratégia Econômica do Ceará (IPECE)"
