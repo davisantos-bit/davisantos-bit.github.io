@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-revistasupesp/
 date: 2022-02-15
 
-pubtype: journal
+pubtype: workingpaper
 venue: "Superintendência de Pesquisa e Estratégia de Segurança Pública (Supesp), Governo do Estado do Ceará"
 status: "Published"
 
