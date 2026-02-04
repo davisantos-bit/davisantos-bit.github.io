@@ -19,8 +19,8 @@ bibtexurl: /assets/bibtex/2014-revistasde.bib
 
 citation: |
   Santos, M. D. & Oliveira, E. M. B. de (2014). Sectoral Concentration of Firms by Neighborhood in Fortaleza, Ceará, Brazil.
-  Estudos e Pesquisas (COPDES/SDE/PMF), Coordenadoria de Projetos e Desenvolvimento Econômico (COPDES/SDE/PMF), Prefeitura Municipal de
-  Fortaleza (PMF), 1(1), p. 1--24.
+  Estudos e Pesquisas (COPROJ/SDE/PMF), Coordenadoria de Projetos e Desenvolvimento Econômico (COPROJ/SDE/PMF), Secretaria Municipal do
+  Desenvolvimento Econômico (SDE/PMF), Prefeitura Municipal de Fortaleza (PMF), 1(1), p. 1--24.
 
 abstract: |
   The study presents a mapping of the concentration of firms and economic activities at the neighborhood level, according to the CNAE
