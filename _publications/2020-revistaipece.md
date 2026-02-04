@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-revistaipece/
 date: 2020-05-11
 
-pubtype: working papers
+pubtype: workingpaper
 venue: "Boletim de Gestão Pública, Instituto de Pesquisa e Estratégia Econômica do Ceará (IPECE)"
 status: "Published"
 
