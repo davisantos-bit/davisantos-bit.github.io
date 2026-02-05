@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-USA"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Marcelo Davi S."
+title                    : "Marcelo Davi Santos"
 title_separator          : "-"
-name                     : &name "Marcelo Davi S."
-description              : &description "Economia aplicada"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Marcelo Davi Santos"
+description              : &description "Economia Aplicada"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://davisantos-bit.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ repository               : "davisantos-bit/davisantos-bit.github.io"
 author:
   # Biographic information
   avatar           : "Davi10.jpg"
-  name             : "Marcelo Davi S."
+  name             : "Marcelo Davi Santos"
   bio              : "Professor Substituto FEAAC/UFC"
   employer         : "Universidade Federal do Ceará/UFC"
   email            : "davisantos@caen.ufc.br"
