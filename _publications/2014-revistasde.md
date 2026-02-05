@@ -5,7 +5,7 @@ permalink: /publication/2014-revistasde/
 date: 2014-10-01
 
 pubtype: workingpaper
-venue: "Estudos e Pesquisas (COPDES/SDE/PMF)"
+venue: "Estudos e Pesquisas (COPROJ/SDE/PMF)"
 status: "Published"
 
 authors:
