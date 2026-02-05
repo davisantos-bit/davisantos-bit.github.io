@@ -19,7 +19,6 @@ author_profile: true
   | where: "pubtype", "workingpaper" 
   | sort: "date" 
   | reverse %}
-
 {% for post in pubs %}
   {% include archive-single.html %}
 {% endfor %}
