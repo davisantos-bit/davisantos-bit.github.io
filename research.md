@@ -15,7 +15,11 @@ author_profile: true
 {% endfor %}
 
 ## Working Papers
-{% assign pubs = site.publications | where: "pubtype", "workingpaper" %}
+{% assign pubs = site.publications 
+  | where: "pubtype", "workingpaper" 
+  | sort: "date" 
+  | reverse %}
+
 {% for post in pubs %}
   {% include archive-single.html %}
 {% endfor %}
