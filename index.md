@@ -8,9 +8,9 @@ Sou Graduado (2011), Mestre (2013) e Doutor (2020) em Economia pela Universidade
 
 Graduado em Administração pela Universidade Estácio de Sá (UNESA, 2022).
 
-### Interesses de Pesquisa
+### Interesses de Pesquisa:
 - Economia do Crime  
 - Economia da Saúde
-- Economia Social 
+- Economia Internacional
 - Econometria Espacial  
 - Políticas Públicas  
