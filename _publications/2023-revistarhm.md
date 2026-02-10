@@ -14,7 +14,7 @@ authors:
   - name: Marcel Pereira Pordeus
   - name: Pedro Rafael Lopes Fernandes
 
-paperurl: "file:///C:/Users/davis/AppData/Local/Temp/MicrosoftEdgeDownloads/222c57b8-ceb9-43a8-a36c-a5c4ef741d9c/45-68-PB%20(1).pdf"
+paperurl: "https://revistacientifica.pm.mt.gov.br/index.php/semanal/issue/view/45/75"
 issn: "2359-5124"
 bibtexurl: /assets/bibtex/2023-revistarhm.bib
 
