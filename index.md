@@ -13,5 +13,4 @@ Graduado em Administração pela Universidade Estácio de Sá (UNESA, 2022).
 - Economia da Saúde
 - Economia Urbana
 - Econometria Espacial  
-- Políticas Públicas
-- Indicadores Econômicos  
+- Políticas Públicas 
