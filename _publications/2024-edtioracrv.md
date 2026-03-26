@@ -40,3 +40,4 @@ abstract: |
   work, human rights, adolescence, aging, gender issues, and inclusion are themes that shape the ideas discussed by the authors.
   These are approached from contemporary perspectives, offering indicative insights into the main political and social
   transformations occurring within society.
+---
