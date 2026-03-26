@@ -1,5 +1,5 @@
 ---
-title: "Trajetórias epistemológicas em políticas públicas e sociais: Cenários e fluxos contemporâneos"
+title: "SISTEMA DE POLÍTICA CULTURAL ENTRE OS GOVERNOS FHC E LULA: caracterização e itinerário histórico"
 collection: publications
 permalink: /publication/2024-editoracrv/
 date: 2024-12-31
@@ -18,14 +18,15 @@ authors:
   - name: Josivan Rocha Josino
   - name: Caio Leonam Vieira Pordeus
 
-paperurl: "https://revista.domhelder.edu.br/index.php/veredas/article/view/5211"
+paperurl: "https://loja.editoracrv.com.br/produtos/trajetorias-epistemologicas-em-politicas-publicas-e-sociais-cenarios-e-fluxos-contemporaneos-1u6uv/#reviewsapp-widgetContainer"
 doi: "10.24824/978652516029.0.7-22"
 bibtexurl: /assets/bibtex/2024-editoracrv.bib
 
 citation: |
   Pordeus, m. p., Silva, F. G. A., Alves, S. R. M., Marinho, C. H.,  Josino, J. R., Santos, M. D., Pordeus, C. L. V. SISTEMA DE
-  POLÍTICA CULTURAL ENTRE OS GOVERNOS FHC E LULA: caracterização e itinerário histórico. In: SILVA, Amanda da (org.). Studies in
-  Education and Human Development. [S.l.]: Contribuciones Editora, Curitiba/PR, 2024.
+  POLÍTICA CULTURAL ENTRE OS GOVERNOS FHC E LULA: caracterização e itinerário histórico. In: Pordeus, M. P., Alves, S. R. M.,
+  Marinho, C. H., Santos, M. D., Caetano, W. S., Oliveira, R. N., (org.). Trajetórias epistemológicas em políticas públicas e
+  sociais: Cenários e fluxos contemporâneos. [S.l.]: CRV Editora, Curitiba/PR, 2024.
   https://doi.org/10.24824/978652516029.0.7-22
 
 abstract: |
@@ -39,4 +40,3 @@ abstract: |
   work, human rights, adolescence, aging, gender issues, and inclusion are themes that shape the ideas discussed by the authors.
   These are approached from contemporary perspectives, offering indicative insights into the main political and social
   transformations occurring within society.
----
