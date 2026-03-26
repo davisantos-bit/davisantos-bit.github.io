@@ -1,0 +1,44 @@
+---
+title: "Greed and Integrated Programming (AIP) as a Tool for Ensuring Comprehensive Health Care in the SUS: A Case Study on Improving Cancer Care in the Health Region of Fortaleza, Ceará"
+collection: publications
+permalink: /publication/2025-editora-impacto/
+date: 2025-02-10
+
+pubtype: chapter
+venue: "Human Sciences: History, Culture and Society | Impacto Científico Editora"
+status: "Published"
+
+authors:
+  - name: Marcelo Davi Santos
+    me: true
+  - name: Nathalie Costa Milhome
+  - name: Pryscila Gomes Lobo
+  - name: Marcus Vinicius Adriano Araujo
+  - name: Marcel Pereira Pordeus
+  - name: Rebeca de Oliveira Cardoso
+  - name: Camila Marques da Silva Oliveira
+
+paperurl: "https://periodicos.newsciencepubl.com/editoraimpacto/article/view/7976"
+doi: "10.56238/edimpacto2025.020-003"
+bibtexurl: /assets/bibtex/2025-editora-impacto.bib
+
+citation: |
+  Milhome, N. C., Santos, M. D., Lobo, P. G., Araujo, M. V. A., Pordeus, M. P., Cardoso, R. de O., & Oliveira, C. M. da S. (2025). Greed
+  and Integrated Programming (AIP) as a Tool for Ensuring Comprehensive Health Care in the SUS: A Case Study on Improving Cancer Care in
+  the Health Region of Fortaleza, Ceará. In: Impacto Científico, (org.). Human Sciences: History, Culture and Society. [S.l.]: Impacto Científico Editora, Curitiba/PR, 2025.
+  https://doi.org/10.56238/edimpacto2025.020-003
+
+abstract: |
+  Cancer is one of the leading causes of morbidity and mortality worldwide. The complexity of treatment and the need for specialized
+  resources pose significant challenges for public health. In this perspective, this study addresses the Integrated Agreed Programming
+  (PPI), an essential process in the Unified Health System (SUS) that aims to organize and quantify health actions for the population,
+  ensuring access to services through inter-managerial agreements. The action research, conducted in partnership with managers and
+  technicians, focuses on updating the PPI to improve cancer care in the Health Region of Fortaleza, Ceará, Brazil. The project, carried
+  out at the Ceará State Health Secretariat (SESA/CE), involved workshops to demystify the PPI and question-and-answer meetings with
+  municipal technicians, aiming at a clear and efficient understanding of the programming process. The analysis of the PPI spreadsheets
+  by the technical area sought to verify the adequacy of procedures and consultations with the agreed values, ensuring the equitable
+  distribution of resources. The results highlight the importance of regionalization and decentralization of health services to promote
+  equity and efficiency. Updating the PPI proved crucial to optimizing care for cancer patients, ensuring that resources are properly
+  directed and used. In this sense, this study reinforces the need for situational strategic planning to address challenges in public
+  health management, contributing to the continuous improvement of the services offered and the enhancement of cancer care.
+---
