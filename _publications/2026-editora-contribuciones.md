@@ -9,6 +9,8 @@ venue: "Studies in Education and Human Development | Contribuciones Editora"
 status: "Published"
 
 authors:
+  - name: Marcelo Davi Santos
+    me: true
   - name: Marcel Pereira Pordeus
   - name: Wildeson de Sousa Caetano
   - name: Josivan Rocha Josino
