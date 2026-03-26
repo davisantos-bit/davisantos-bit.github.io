@@ -1,7 +1,7 @@
 ---
 title: "Trajetórias epistemológicas em políticas públicas e sociais: Cenários e fluxos contemporâneos"
 collection: publications
-permalink: /publication/2024-edtioracrv/
+permalink: /publication/2024-editoracrv/
 date: 2024-12-31
 
 pubtype: chapters
@@ -20,7 +20,7 @@ authors:
 
 paperurl: "https://revista.domhelder.edu.br/index.php/veredas/article/view/5211"
 doi: "10.24824/978652516029.0.7-22"
-bibtexurl: /assets/bibtex/2024-edtioracrv.bib
+bibtexurl: /assets/bibtex/2024-editoracrv.bib
 
 citation: |
   Pordeus, m. p., Silva, F. G. A., Alves, S. R. M., Marinho, C. H.,  Josino, J. R., Santos, M. D., Pordeus, C. L. V. SISTEMA DE
