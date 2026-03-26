@@ -1,5 +1,5 @@
 ---
-title: "PERFORMANCE OF PUBLIC HEALTH CONSORTIA IN CEARÁ: A Comparative Analysis between Caucaia and Baturité"
+title: "Performance of Public Health Consortia in Ceará: A Comparative Analysis between Caucaia and Baturité"
 collection: publications
 permalink: /publication/2026-revistapbpc/
 date: 2026-03-20
@@ -22,7 +22,8 @@ doi: "10.36557/2674-9432.2026v5n1p2924-2957"
 bibtexurl: /assets/bibtex/2026-revistapbpc.bib
 
 citation: |
-  Gomes Lobo, P., Santos, M. D., Pereira Pordeus, M., Holanda, L., Costa Milhome, N., & de Oliveira Cardoso, R. (2026). PERFORMANCE OF PUBLIC HEALTH CONSORTIA IN CEARÁ: A Comparative Analysis between Caucaia and Baturité.
+  Gomes Lobo, P., Santos, M. D., Pereira Pordeus, M., Holanda, L., Costa Milhome, N., & de Oliveira Cardoso, R. (2026). Performance of
+  Public Health Consortia in Ceará: A Comparative Analysis between Caucaia and Baturité.
   Revista Periódicos Brasil. Pesquisa Científica (PBPC), 5(1), 2924–2957.
   https://doi.org/10.36557/2674-9432.2026v5n1p2924-2957
 
