@@ -22,6 +22,8 @@ excerpt: "Click to expand abstract"
 abstract: "Chapter that analyzes the cultural policy system in Brazil between the FHC and Lula governments, highlighting its institutional and historical evolution."
 
 paperurl: "https://loja.editoracrv.com.br/produtos/trajetorias-epistemologicas-em-politicas-publicas-e-sociais-cenarios-e-fluxos-contemporaneos/"
+doi: "10.24824/978652516029.0.7-22"
+bibtexurl: /assets/bibtex/2024-editora-crv.bib
 
 citation: "PORDEUS, Marcel Pereira et al. Cultural policy system between the FHC and Lula governments..."
 
