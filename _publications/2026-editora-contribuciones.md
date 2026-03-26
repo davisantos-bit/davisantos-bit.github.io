@@ -1,6 +1,5 @@
 ---
-title: "Representation of social education in the Pirambu neighborhood of Fortaleza-CE: an observation of the Movimento Emaús Amor and
-Justiça"
+title: "Representation of social education in the Pirambu neighborhood of Fortaleza-CE: an observation of the Movimento Emaús Amor and Justiça"
 collection: publications
 permalink: /publication/2026-editora-contribuciones/
 date: 2026-03-26
