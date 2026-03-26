@@ -32,8 +32,10 @@ doi: "10.55905/edicon.978-65-83115-36-2_13"
 bibtexurl: /assets/bibtex/2026-editora-contribuciones.bib
 
 citation: |
-  Pordeus, m. p., Silva, F. G. A., Alves, S. R. M., Marinho, C. H.,  Josino, J. R., Santos, M. D., Pordeus, C. L. V. Representation of social education in the Pirambu neighborhood of Fortaleza-CE: an observation of the Movimento Emaús Amor e Justiça. In: Silva, Amanda da, (org.). Studies in Education and Human Development. [S.l.]: Contribuciones Editora, Curitiba/PR, 2026.
-https://doi.org/10.55905/edicon.978-65-83115-36-2_13
+  Pordeus, m. p., Silva, F. G. A., Alves, S. R. M., Marinho, C. H.,  Josino, J. R., Santos, M. D., Pordeus, C. L. V. Representation of
+  social education in the Pirambu neighborhood of Fortaleza-CE: an observation of the Movimento Emaús Amor e Justiça. In: Silva, Amanda
+  da, (org.). Studies in Education and Human Development. [S.l.]: Contribuciones Editora, Curitiba/PR, 2026.
+  https://doi.org/10.55905/edicon.978-65-83115-36-2_13
 
 abstract: |
     Social education is a field of work that develops the capacities of people who lack resources and including them in a system that
