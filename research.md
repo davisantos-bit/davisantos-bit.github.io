@@ -23,7 +23,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Book Chapters
+## Book Organization and Chapters
 {% assign pubs = site.publications | where: "pubtype", "chapter" %}
 {% for post in pubs %}
   {% include archive-single.html %}
