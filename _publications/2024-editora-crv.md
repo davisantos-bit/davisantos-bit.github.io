@@ -5,7 +5,8 @@ permalink: /publication/2024-editora-crv/
 date: 2024-12-31
 
 pubtype: chapter
-venue: "Contribuciones Editora"
+venue: "Epistemological trajectories in public and social policies:
+  contemporary scenarios and flows | CRV Editora"
 status: "Published"
 
 authors:
