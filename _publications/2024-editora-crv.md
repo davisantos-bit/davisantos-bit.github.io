@@ -1,7 +1,7 @@
 ---
 title: "Sistema de política cultural entre os governos FHC e Lula: caracterização e itinerário histórico"
 collection: publications
-permalink: /publication/2024-edtiora-crv/
+permalink: /publication/2024-editora-crv/
 date: 2024-12-31
 
 venue: "Trajetórias epistemológicas em políticas públicas e sociais: cenários e fluxos contemporâneos"
