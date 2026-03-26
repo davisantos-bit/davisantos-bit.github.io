@@ -5,7 +5,7 @@ permalink: /publication/2024-edtiora-crv/
 date: 2024-12-31
 
 venue: "Trajetórias epistemológicas em políticas públicas e sociais: cenários e fluxos contemporâneos"
-pubtype: chapters
+pubtype: books
 status: "Published"
 
 authors:
