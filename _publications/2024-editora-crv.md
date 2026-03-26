@@ -1,10 +1,10 @@
 ---
-title: "Sistema de política cultural entre os governos FHC e Lula: caracterização e itinerário histórico"
+title: "Cultural policy system between the FHC and Lula governments: characterization and historical trajectory"
 collection: publications
 permalink: /publication/2024-editora-crv/
 date: 2024-12-31
 
-venue: "Trajetórias epistemológicas em políticas públicas e sociais: cenários e fluxos contemporâneos"
+venue: "Epistemological Trajectories in Public and Social Policies: Contemporary Scenarios and Flows."
 pubtype: chapter
 status: "Published"
 
@@ -17,9 +17,9 @@ authors:
   - "Josivan Rocha Josino"
   - "Caio Leonam Vieira Pordeus"
 
-excerpt: "Capítulo que analisa o sistema de política cultural no Brasil entre os governos FHC e Lula, destacando sua evolução institucional e histórica."
+excerpt: "Chapter that analyzes the cultural policy system in Brazil between the FHC and Lula governments, highlighting its institutional and historical evolution."
 
-paperurl: "https://loja.editoracrv.com.br/produtos/trajetorias-epistemologicas-em-politicas-publicas-e-sociais-cenarios-e-fluxos-contemporaneos-1u6uv/#reviewsapp-widgetContainer"
+paperurl: "[https://loja.editoracrv.com.br/produtos/trajetorias-epistemologicas-em-politicas-publicas-e-sociais-cenarios-e-fluxos-contemporaneos-1u6uv/#reviewsapp-widgetContainer](https://a.co/d/0cijw0UQ)"
 
-citation: "PORDEUS, Marcel Pereira et al. Sistema de política cultural entre os governos FHC e Lula: caracterização e itinerário histórico. In: PORDEUS, M. P. et al. (org.). Trajetórias epistemológicas em políticas públicas e sociais: cenários e fluxos contemporâneos. Curitiba: CRV Editora, 2024."
+citation: "PORDEUS, Marcel Pereira et al. Cultural policy system between the FHC and Lula governments: characterization and historical trajectory. In: PORDEUS, M. P. et al. (eds.). Epistemological trajectories in public and social policies: contemporary scenarios and flows. Curitiba: CRV Editora, 2024."
 ---
