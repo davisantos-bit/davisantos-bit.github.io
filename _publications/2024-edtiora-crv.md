@@ -1,10 +1,10 @@
 ---
-title: "Sistema de política cultural entre os governos FHC e Lula: caracterização e itinerário histórico"
+title: "Representação da educação social no bairro Pirambu, em Fortaleza-CE"
 collection: publications
-permalink: /publication/2024-politica-cultural/
+permalink: /publication/2024-edtiora-crv/
 date: 2024-12-31
 
-venue: "Trajetórias epistemológicas em políticas públicas e sociais: cenários e fluxos contemporâneos"
+venue: "Studies in Education and Human Development"
 pubtype: chapters
 status: "Published"
 
@@ -17,4 +17,9 @@ authors:
   - "Josivan Rocha Josino"
   - "Caio Leonam Vieira Pordeus"
 
-excerpt: "Capítulo que analisa o sistema de política cultural no Brasil entre os governos FHC e Lula, destacando sua evolução institucional e histórica."
+excerpt: "Capítulo que analisa a educação social no bairro Pirambu, em Fortaleza-CE, destacando suas dimensões sociais, educacionais e territoriais."
+
+citation: "SANTOS, Marcelo Davi et al. Representação da educação social no bairro Pirambu, em Fortaleza-CE. In: SILVA, Amanda da (Org.). Studies in Education and Human Development. Contribuciones Editora, 2024."
+
+paperurl: "https://davisantos-bit.github.io/files/educacao-social-pirambu.pdf"
+---
