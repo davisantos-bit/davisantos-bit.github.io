@@ -5,7 +5,7 @@ permalink: /publication/2024-editoracrv/
 date: 2024-12-31
 
 pubtype: chapters
-venue: "Contribuciones Editora"
+venue: "CRV Editora"
 status: "Published"
 
 authors:
