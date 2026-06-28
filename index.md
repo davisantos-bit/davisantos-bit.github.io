@@ -1,10 +1,8 @@
 ### Bem-vindo à minha página inicial!
 
-Sou Professor Substituto de Teoria Econômica na Faculdade de Economia, Administração, Atuária e Contabilidade (FEAAC/UFC).
+Atuei anteriormente como Professor Substituto de Teoria Econômica e Métodos Quantitativos na Faculdade de Economia, Administração, Atuária e Contabilidade (FEAAC/UFC) e Professor Adjunto no Centro Universitário Unifametro, na Faculdade Padre Dourado (FACPED), e como Pesquisador na SDE/PMF/CE e SUPESP/SSPDS/CE.
 
-Atuei anteriormente como Professor Adjunto no Centro Universitário Unifametro, na Faculdade Padre Dourado (FACPED), e como Pesquisador na SDE/PMF/CE e SUPESP/SSPDS/CE.
-
-Sou Graduado (2011), Mestre (2013) e Doutor (2020) em Economia pela Universidade Federal do Ceará (UFC).
+Sou Graduado (2011), Mestre (2013) e Doutor (2020) em Economia pela Universidade Federal do Ceará (CAEN/UFC).
 
 Graduado em Administração pela Universidade Estácio de Sá (UNESA, 2022).
 
