@@ -11,7 +11,6 @@ Graduado em Administração pela Universidade Estácio de Sá (UNESA, 2022).
 ### Interesse de Pesquisa:
 - Violência e Criminalidade  
 - Economia da Saúde
-- Economia Urbana
-- Economia Regional
+- Economia Regional e Urbana
 - Econometria Espacial  
 - Políticas Públicas 
