@@ -17,7 +17,7 @@ authors:
   - name: Nathalie Costa Milhome
   - name: Rebeca de Oliveira Cardoso
 
-paperurl: "10.48209/978-65-5417-805-1"
+paperurl: "10.48209/978-65-5417-805-0"
 doi: "10.48209/978-65-5417-805-0"
 bibtexurl: /assets/bibtex/2026-editora-arco.bib
 
