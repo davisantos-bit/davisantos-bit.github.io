@@ -22,8 +22,12 @@ doi: "10.48209/978-65-5417-805-0"
 bibtexurl: /assets/bibtex/2026-editora-arco.bib
 
 citation: |
-  Lobo, P. G., Santos, M. D., Pordeus, M. P., Holanda, L., Cardoso, R. O., Milhome, N. C. ADVANCES, CHALLENGES AND PERSPECTIVES OF THE REGIONALIZATION OF THE UNIFIED HEALTH SYSTEM (SUS) AT 35 YEARS: a comparative analysis of consortium-based management in the municipalities of Caucaia and Baturité, Ceará. In: Luís Paulo Souza e Souza, Antônia Gonçalves de Souza, Carla Silvana de Oliveira e Silva, Orlene Veloso Dias (org.). SUS AT 35 YEARS: YESTERDAY, TODAY AND TOMORROWS. [S.l.]: Arco Editores, 1º edição, Santa Maria/RS, 2026.
-https://10.48209/978-65-5417-805-0
+  Lobo, P. G., Santos, M. D., Pordeus, M. P., Holanda, L., Cardoso, R. O., Milhome, N. C. ADVANCES, CHALLENGES AND PERSPECTIVES
+  OF THE REGIONALIZATION OF THE UNIFIED HEALTH SYSTEM (SUS) AT 35 YEARS: a comparative analysis of consortium-based management
+  in the municipalities of Caucaia and Baturité, Ceará. In: Luís Paulo Souza e Souza, Antônia Gonçalves de Souza, Carla Silvana
+  de Oliveira e Silva, Orlene Veloso Dias (org.). SUS AT 35 YEARS: YESTERDAY, TODAY AND TOMORROWS. [S.l.]: Arco Editores, 1º
+  edição, Santa Maria/RS, 2026.
+  https://10.48209/978-65-5417-805-0
 
 abstract: |
     The study evaluates the performance of Public Health Consortia in the municipalities of Caucaia and BaturitÈ (Ceará, Brazil), analyzing their contribution to expanding access, improving specialized care, and strengthening regionalization within the Unified Health System (SUS). It is based on the conception of consortia as strategic institutional arrangements to reduce territorial inequalities and promote shared management. The methodology combines quantitative and qualitative approaches, including document analysis, secondary data from DataSUS, and semi-structured interviews with managers and technical staff. The results indicate progress in the organization of specialized outpatient care, highlighting the State’s role as an inducer of regionalization. However, significant challenges remain regarding financing, demand regulation, and coordination among levels of care. The comparison between the two consortia reveals distinct dynamics of service use and user adherence. It is concluded that health consortia strengthen regional SUS arrangements but require improvements in management, financing, and intergovernmental integration.
