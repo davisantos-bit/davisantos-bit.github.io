@@ -139,7 +139,7 @@ redirect_from:
 
 # Professional Profile
 
-Professor and researcher in Economics, with academic training in Economics and Business Administration. Holds a Ph.D. and M.Sc. in Economics from the Universidade Federal do Ceará (UFC/CAEN), with research experience in Economics of Crime, Violence and Criminality, Spatial Econometrics, Regional and Urban Economics, Economic Development and Public Policy Evaluation.
+Professor and researcher in Economics, with academic training in Economics and Business Administration. Holds a Ph.D. and M.Sc. in Economics from the Universidade Federal do Ceará (UFC/CAEN), with research experience in Economics of Crime, Violence and Criminality, Spatial Econometrics, Regional and Urban Economics, Economic Development, Health Economics and Public Policy Evaluation.
 
 His academic activities combine theoretical, quantitative and spatial approaches to the analysis of socioeconomic, regional and urban phenomena, with particular emphasis on Ceará and Brazilian regional development.
 
