@@ -62,8 +62,6 @@ redirect_from:
 * Health Economics
 * Public Policy Evaluation
 * Economic History
-* Regional Inequalities
-* Urban Economics
 
 # Skills
 
@@ -121,7 +119,7 @@ redirect_from:
 
 # Publications
 
-* Santos, Marcelo Davi. Research and publications in Economics, Regional and Urban Economics, Public Policy, Economic Development, Violence and Crime, and Spatial Econometrics.
+* Santos, Marcelo Davi. Research and publications in Economics, Regional and Urban Economics, Public Policy, Economic Development, Violence and Crime, Health Economics and Spatial Econometrics.
 
 * Publications and academic works are available through the author's Lattes Curriculum, institutional repositories and academic profiles.
 
