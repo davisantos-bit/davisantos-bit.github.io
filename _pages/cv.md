@@ -41,7 +41,7 @@ redirect_from:
 * Universidade Federal do Ceará (UFC/FEAAC)
 
   * Teaching and academic activities in Economics
-  * Undergraduate courses in Economic Theory, Economic History and related areas
+  * Undergraduate courses in Economic Theory, Economic History, Quantitative Methods and related areas
 
 * Superintendência de Pesquisa e Estratégia de Segurança Pública (SUPESP/CE)
 
@@ -64,12 +64,11 @@ redirect_from:
 * Economic Development
 * Economics of Crime and Public Security
 * Spatial Econometrics
+* Health Economics
 * Public Policy Evaluation
 * Economic History
 * Regional Inequalities
 * Urban Economics
-* Public Economics
-* Applied Economics
 
 # Skills
 
@@ -77,6 +76,7 @@ redirect_from:
 * Econometrics and Spatial Econometrics
 * Quantitative Research and Data Analysis
 * Regional and Urban Economics
+* Health Economics
 * Public Policy Evaluation
 * Economic Development Analysis
 * Economic History
@@ -89,8 +89,6 @@ redirect_from:
 * Economic Theory
 * Economic History
 * Classical Economic Thought
-* Regional Economics
-* Urban Economics
 * Economic Development
 * Public Policy
 * Economics of Crime
@@ -102,6 +100,7 @@ redirect_from:
 
 * Research in Regional and Urban Economics
 * Research on Violence and Crime (V&C)
+* Health Economics
 * Spatial analysis of socioeconomic and urban phenomena
 * Evaluation of public policies
 * Analysis of regional inequalities and economic development
@@ -113,6 +112,7 @@ redirect_from:
 
 * Violence and Crime in Ceará
 * Economics of Crime
+* Health Economics
 * Spatial Dynamics of Violence and Criminality
 * Regional Development
 * Regional Inequalities in Brazil
