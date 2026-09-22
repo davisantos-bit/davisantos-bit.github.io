@@ -19,9 +19,9 @@ redirect_from:
 
   * Master's research on Exchange Rate Volatility and Brazilian Commodity Exports
 
-* B.Sc. in Economics, Universidade Federal do Ceará (UFC/FEAAC)
+* B.Sc. in Economics, Universidade Federal do Ceará (UFC/FEAAC), 2011
 
-* B.Sc. in Business Administration, Centro Universitário Estácio de Sá (UNESA)
+* B.Sc. in Business Administration, Centro Universitário Estácio de Sá (UNESA), 2022
 
 # Academic and Professional Experience
 
