@@ -21,16 +21,6 @@ redirect_from:
   * Research area: Exchange Rate Volatility and Brazilian Commodity Exports
   * [M.Sc. Dissertation](https://repositorio.ufc.br/handle/riufc/15202?mode=full)
 
-* B.Sc. in Economics, Universidade Federal do Ceará (UFC/FEAAC)
-
-* B.Sc. in Business Administration, Centro Universitário Estácio de Sá (UNESA)
-
-
-* B.Sc. in Economics, Universidade Federal do Ceará (UFC/FEAAC)
-
-* B.Sc. in Business Administration, Centro Universitário Estácio de Sá (UNESA)
-
-
 * B.Sc. in Economics, Universidade Federal do Ceará (UFC/FEAAC), 2011
 
 * B.Sc. in Business Administration, Centro Universitário Estácio de Sá (UNESA), 2022
@@ -158,12 +148,14 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<!--
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+-->
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
@@ -172,4 +164,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Ongoing / In Progress
