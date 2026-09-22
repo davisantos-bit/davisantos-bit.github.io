@@ -13,11 +13,18 @@ redirect_from:
 
 * Ph.D. in Economics, Universidade Federal do Ceará (UFC/CAEN), 2020
 
-  * Doctoral research focused on Violence and Crime, Economics of Crime, Spatial Econometrics and Public Policy Evaluation
+  * Doctoral research focused on Violence and Crime, Economics of Crime, Spatial Econometrics, Public Policy Evaluation, and Quantitative Methods
+  * [Doctoral Thesis – Institutional Repository of the Federal University of Ceará (UFC)](https://repositorio.ufc.br/bitstream/riufc/56800/1/2020_tese_mds.pdf.pdf)
 
 * M.Sc. in Economics, Universidade Federal do Ceará (UFC/CAEN), 2014
 
   * Master's research on Exchange Rate Volatility and Brazilian Commodity Exports
+  * [Master's Dissertation – Institutional Repository of the Federal University of Ceará (UFC)](https://repositorio.ufc.br/handle/riufc/15202?mode=full)
+
+* B.Sc. in Economics, Universidade Federal do Ceará (UFC/FEAAC)
+
+* B.Sc. in Business Administration, Centro Universitário Estácio de Sá (UNESA)
+
 
 * B.Sc. in Economics, Universidade Federal do Ceará (UFC/FEAAC), 2011
 
