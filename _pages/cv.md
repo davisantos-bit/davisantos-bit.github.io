@@ -28,8 +28,8 @@ redirect_from:
 * Universidade Federal do Ceará (UFC)
 
   * Professor / Lecturer in Economics
-  * Teaching and research in Economics, Economic History, Regional and Urban Economics, Public Policy, Economic Development and
-    and Quantitative Methods
+  * Teaching and research in Economics, Economic History, Regional and Urban Economics, Public Policy, Economic Development,
+    Health Economics and Quantitative Methods
 
 * Universidade Federal do Ceará (UFC/FEAAC)
 
