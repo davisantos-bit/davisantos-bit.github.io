@@ -13,13 +13,18 @@ redirect_from:
 
 * Ph.D. in Economics, Universidade Federal do Ceará (UFC/CAEN), 2020
 
-  * Doctoral research focused on Violence and Crime, Economics of Crime, Spatial Econometrics, Public Policy Evaluation, and Quantitative Methods
-  * [Doctoral Thesis – Institutional Repository of the Federal University of Ceará (UFC)](https://repositorio.ufc.br/bitstream/riufc/56800/1/2020_tese_mds.pdf.pdf)
+  * Research areas: Violence and Crime, Economics of Crime, Spatial Econometrics, Public Policy Evaluation, and Quantitative Methods
+  * [Ph.D. Thesis](https://repositorio.ufc.br/bitstream/riufc/56800/1/2020_tese_mds.pdf.pdf)
 
 * M.Sc. in Economics, Universidade Federal do Ceará (UFC/CAEN), 2014
 
-  * Master's research on Exchange Rate Volatility and Brazilian Commodity Exports
-  * [Master's Dissertation – Institutional Repository of the Federal University of Ceará (UFC)](https://repositorio.ufc.br/handle/riufc/15202?mode=full)
+  * Research area: Exchange Rate Volatility and Brazilian Commodity Exports
+  * [M.Sc. Dissertation](https://repositorio.ufc.br/handle/riufc/15202?mode=full)
+
+* B.Sc. in Economics, Universidade Federal do Ceará (UFC/FEAAC)
+
+* B.Sc. in Business Administration, Centro Universitário Estácio de Sá (UNESA)
+
 
 * B.Sc. in Economics, Universidade Federal do Ceará (UFC/FEAAC)
 
@@ -132,10 +137,11 @@ redirect_from:
 
 # Academic Profiles
 
-* Lattes: http://lattes.cnpq.br/2178270992840357
-* ORCID: https://orcid.org/0000-0002-4737-9068
-* GitHub: https://github.com/davisantos-bit
-* Academic Website: https://davisantos-bit.github.io/
+* [Lattes Curriculum](http://lattes.cnpq.br/2178270992840357)
+* [ORCID](https://orcid.org/0000-0002-4737-9068)
+* [GitHub](https://github.com/davisantos-bit)
+* [Academic Website](https://davisantos-bit.github.io/)
+
 
 # Professional Profile
 
