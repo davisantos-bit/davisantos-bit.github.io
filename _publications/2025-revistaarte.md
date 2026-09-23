@@ -15,7 +15,7 @@ authors:
   - name: Ernesto dos Santos Vasconcelos
   - name: Marcel Pereira Pordeus
 
-paperurl: "https://ojs.cuadernoseducacion.com/ojs/index.php/ced/article/view/9321"
+paperurl: "https://artefactumjournal.com/index.php/artefactum/article/view/2385"
 doi: "10.23900/artefactum.v24i1.2385"
 bibtexurl: /assets/bibtex/2025-revistaarte.bib
 
