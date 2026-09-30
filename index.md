@@ -6,6 +6,8 @@ I hold a Bachelor’s degree (2011), Master’s degree (2013), and Ph.D. (2020) 
 
 I also hold a Bachelor’s degree in Business Administration from Universidade Estácio de Sá (UNESA, 2022).
 
+I am currently a Postgraduate Student in Public Management at the Federal University of Cariri (UFCA, 2026).
+
 ### Research Interests
 
 * Violence and Crime
