@@ -14,9 +14,7 @@ I also hold a Bachelor’s degree in Business Administration from Universidade E
 * Spatial Econometrics
 * Public Policy
 
-
 <!--
-
 ### Bem-vindo à minha página inicial!
 
 Atuei anteriormente como Professor Substituto de Teoria Econômica e Métodos Quantitativos na Faculdade de Economia, Administração, Atuária e Contabilidade (FEAAC/UFC), Professor Adjunto no Centro Universitário Unifametro, na Faculdade Padre Dourado (FACPED) e como Pesquisador na SDE/PMF/CE e SUPESP/SSPDS/CE.
@@ -32,4 +30,3 @@ Graduado em Administração pela Universidade Estácio de Sá (UNESA, 2022).
 - Econometria Espacial  
 - Políticas Públicas
 
-<--
